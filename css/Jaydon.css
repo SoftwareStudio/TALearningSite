@@ -6,3 +6,11 @@
 .margintop{
     margin-top: 20px;
 }
+.box{
+    background-color: #F6F6F6;
+    margin-top:70px;   
+    padding-top: 30px;
+}
+.textcentre{
+    text-align: center;
+}
