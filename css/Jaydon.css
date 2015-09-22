@@ -16,6 +16,17 @@
 }
 .boximage{
     margin-top: 60px;
-    
 }
-
+.textmargin{
+    margin-bottom: 25px;
+}
+ul li {
+    list-style-type: circle;
+    margin-top: 10px;
+}
+.clienttext{
+    margin-bottom: 50px;
+}
+.clientptext{
+    margin-left: 30px;
+}
