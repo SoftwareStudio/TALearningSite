@@ -1,0 +1,42 @@
+.header{
+    background-color:#F6F6F6;
+    padding: 60px 0px 60px 0px;
+    margin-top: 10px;
+}
+.margintop{
+    margin-top: 20px;
+}
+.box{
+    background-color: #F6F6F6;
+    margin-top:70px;   
+    padding-top: 30px;
+}
+.textcentre{
+    text-align: center;
+}
+.boximage{
+    margin-top: 60px;
+}
+.textmargin{
+    margin-bottom: 25px;
+}
+ul li {
+    list-style-type: circle;
+    margin-top: 10px;
+}
+.clienttext{
+    margin-bottom: 50px;
+}
+.clientptext{
+    margin-left: 30px;
+}
+.footer{
+    background-color: #37383A;
+}
+.textcolor{
+    color: #494A4A;
+    margin: 60px 20px 60px 250px;
+}
+.marginleft{
+    margin-left: 100px;
+}
