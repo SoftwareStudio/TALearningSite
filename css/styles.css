@@ -5,8 +5,12 @@
 }
 .tabs {
     background-color: #F0F0F0;
+    text-align: center
 }
 .lastrow {
     color: azure;
     background-color: #37383A;
+}
+.margin {
+    margin-top: 50%;
 }
