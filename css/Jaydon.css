@@ -35,12 +35,14 @@ ul li {
     background-color: #37383A;
 }
 .textcolor{
-    color: #494A4A;
-    margin: 60px 20px 60px 250px;
+    color: #5F6062;
 }
 .marginleft{
     margin-left: 100px;
 }
 .paragraphmargin{
     margin-top: 60px;
+}
+.footermargintext{
+    margin-left: 10px;
 }
