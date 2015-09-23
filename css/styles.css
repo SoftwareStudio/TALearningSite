@@ -7,8 +7,8 @@
     color: azure;
     background-color: #37383A;
 }
-.margin {
-    margin-top: 50%;
+.imageplace {
+    margin-top: 15%;
 }
 .commonback {
     background-color: #F0F0F0;
@@ -18,5 +18,14 @@
     padding-right: 20px;
 }
 .lastp {
-    margin: 50px;;
+    margin: 50px;
+}
+.contentspace {
+    padding: 12px;
+}
+.bottomborder {
+    border-bottom: 1px lightgray solid;
+}
+.nomark {
+    list-style-type: none;
 }
