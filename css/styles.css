@@ -23,3 +23,9 @@
 .contentspace {
     padding: 12px;
 }
+.bottomborder {
+    border-bottom: 1px lightgray solid;
+}
+.nomark {
+    list-style-type: none;
+}
