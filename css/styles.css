@@ -1,6 +1,8 @@
 #firstrow {
     height: 80px;
+    margin-top: 10px;
     border-bottom: 2px solid lightgray;
+    border-top: 2px solid lightgray;
 }
 
 .lastrow {
@@ -32,12 +34,13 @@
 }
 .left {
     float: left;
-    padding-right: 0px;
+    padding-right: 5px;
 }
-#single {
-    width: 100%;
+.single {
+    width: auto;
     border-bottom: 2px lightgray solid;
     margin-top: 32px;
-    margin-left: -45px;
-    margin-right: 45px;
+    display: inline-block;
+    float: left;
+    position: absolute;
 }
