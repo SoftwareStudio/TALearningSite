@@ -1,7 +1,8 @@
-.header{
+.firstrow {
     background-color:#F6F6F6;
     padding: 60px 0px 60px 0px;
     margin-top: 10px;
+    border-bottom: 2px solid lightgrey;
 }
 .margintop{
     margin-top: 20px;
@@ -33,6 +34,7 @@ ul li {
 }
 .footer{
     background-color: #37383A;
+    border-top: 2px solid black; 
 }
 .textcolor{
     color: #5F6062;
@@ -51,4 +53,7 @@ a {
 }
 span{
     color: #808183;
+}
+.largermargin{
+    margin-top: 60px;
 }
