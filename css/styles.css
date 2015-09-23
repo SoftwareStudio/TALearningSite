@@ -30,3 +30,14 @@
 .nomark {
     list-style-type: none;
 }
+.left {
+    float: left;
+    padding-right: 0px;
+}
+#single {
+    width: 100%;
+    border-bottom: 2px lightgray solid;
+    margin-top: 32px;
+    margin-left: -45px;
+    margin-right: 45px;
+}
