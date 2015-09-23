@@ -1,16 +1,22 @@
 #firstrow {
     height: 80px;
-    background-color: #F0F0F0;
     border: 2px solid #F0F0F0;
 }
-.tabs {
-    background-color: #F0F0F0;
-    text-align: center
-}
+
 .lastrow {
     color: azure;
     background-color: #37383A;
 }
 .margin {
     margin-top: 50%;
+}
+.commonback {
+    background-color: #F0F0F0;
+}
+.quote {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.lastp {
+    margin: 50px;;
 }
