@@ -1,11 +1,12 @@
 #firstrow {
     height: 80px;
-    border: 2px solid #F0F0F0;
+    border-bottom: 2px solid lightgray;
 }
 
 .lastrow {
     color: azure;
     background-color: #37383A;
+    border-top: 2px black solid;
 }
 .imageplace {
     margin-top: 15%;
@@ -28,4 +29,15 @@
 }
 .nomark {
     list-style-type: none;
+}
+.left {
+    float: left;
+    padding-right: 0px;
+}
+#single {
+    width: 100%;
+    border-bottom: 2px lightgray solid;
+    margin-top: 32px;
+    margin-left: -45px;
+    margin-right: 45px;
 }
