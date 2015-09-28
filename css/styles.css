@@ -44,3 +44,14 @@
     float: left;
     position: absolute;
 }
+@media only screen and (max-width: 500px) {
+    .centersmall {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .spacesmall {
+        margin-top: 10px;
+    }
+}
